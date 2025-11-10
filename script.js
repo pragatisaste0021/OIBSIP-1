@@ -104,4 +104,5 @@ const point = () => {
     else {
         document.querySelector("#display").value =document.querySelector("#display").value + ".";
     }
+
 }
